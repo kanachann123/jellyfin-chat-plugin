@@ -1,12 +1,20 @@
-{
-    "name": "Chat Integration",
-    "version": "1.0.0",
-    "description": "Adds a chat interface to Jellyfin",
-    "owner": "YourName",
-    "category": "General",
+[
+  {
     "guid": "8a9c7d6e-5f4e-3b2a-1c0d-9e8f7a6b5c4d",
-    "targetAbi": "10.8.0.0",
-    "framework": "None",
-    "requiresRestart": false,
-    "assemblyFilename": ""
+    "name": "Chat Integration",
+    "description": "Adds a chat interface to Jellyfin",
+    "overview": "This plugin adds a chat button to the Jellyfin interface, allowing users to communicate with each other.",
+    "owner": "YourGitHubUsername",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "targetAbi": "10.8.0",
+        "changelog": "Initial release",
+        "sourceUrl": "https://github.com/yourusername/jellyfin-chat-plugin/archive/v1.0.0.zip",
+        "checksum": "00000000000000000000000000000000",
+        "timestamp": "2023-06-01T00:00:00Z"
+      }
+    ]
   }
+]
