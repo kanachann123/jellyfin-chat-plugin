@@ -11,7 +11,7 @@
         "version": "1.0.0",
         "targetAbi": "10.8.0",
         "changelog": "Initial release",
-        "sourceUrl": "https://github.com/yourusername/jellyfin-chat-plugin/archive/v1.0.0.zip",
+        "sourceUrl": "https://github.com/kanachann123/jellyfin-chat-plugin/archive/v1.0.0.zip",
         "checksum": "00000000000000000000000000000000",
         "timestamp": "2023-06-01T00:00:00Z"
       }
