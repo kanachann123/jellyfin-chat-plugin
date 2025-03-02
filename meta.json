@@ -1,0 +1,12 @@
+{
+    "name": "Chat Integration",
+    "version": "1.0.0",
+    "description": "Adds a chat interface to Jellyfin",
+    "owner": "YourName",
+    "category": "General",
+    "guid": "8a9c7d6e-5f4e-3b2a-1c0d-9e8f7a6b5c4d",
+    "targetAbi": "10.8.0.0",
+    "framework": "None",
+    "requiresRestart": false,
+    "assemblyFilename": ""
+  }
